@@ -13,12 +13,12 @@ A simple UI quiz app project implemented in Python using the PyQt5 module. This 
 - PyQt5
 
 ## Screenshots
-![Calculator Screenshot 1](https://github.com/Javohir-A/calculator_pyqt5/blob/main/Screenshots/Screenshot_1.png)
+![Calculator Screenshot 1](https://github.com/Javohir-A/Quiz_app/blob/main/Screenshots/Screenshot_1.png)
 
 ## How to Use
 1. Clone the repository to your local machine.
 2. Install the required dependencies (`pyqt5`).
-3. Run the `quiz_app.py` file to start the quiz app.
+3. Run the `main.py` file to start the quiz app.
 
 ## Future Improvements
 - Add support for different types of questions (e.g., true/false, fill in the blanks).
